@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
-  Hello Nam oi
+      <form method="post">
+        <input type="text" name="inputValune">
+        <input type="submit" value="Summit">
+      </form>
+      <h4>result: ${result}</h4>
   </body>
 </html>
